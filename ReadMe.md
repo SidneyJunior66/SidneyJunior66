@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou um estudante e iniciante em programação.<br>👯 Estou buscando aprender mais.<br>🤝 Aceito ajuda em tudo!<br>🌱 Estou aprendendo!<br>🤯Ainda não sei qual linguagem focar.
+🔭 Sou um estudante e iniciante em programação.<br>🕵🏼‍♂️ Estou buscando aprender mais.<br>🤝 Aceito ajuda em tudo!<br>🌱 Estou aprendendo!<br>🤯Ainda não sei qual linguagem focar.
 
 
 # 💻 Tech Stack:
